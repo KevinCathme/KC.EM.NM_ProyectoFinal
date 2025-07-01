@@ -1,4 +1,4 @@
-// archivo: src/modelo/Avistamiento.java
+// archivo: src/modelo/Avistamiento.jav
 package modelo;
 
 import java.time.LocalDate;
