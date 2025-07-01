@@ -18,7 +18,7 @@ public class ControladorPrincipal {
         return instance;
     }
 
-    // Métodos para especies
+    // Métodos especies
     public boolean registrarEspecie(Especie especie) {
         return sistema.registrarEspecie(especie);
     }
@@ -31,7 +31,7 @@ public class ControladorPrincipal {
         return sistema.buscarEspecie(codigo);
     }
 
-    // Métodos para observadores
+    // Métodos observadores
     public boolean registrarObservador(Observador observador) {
         return sistema.registrarObservador(observador);
     }

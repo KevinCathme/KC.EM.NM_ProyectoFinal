@@ -16,7 +16,7 @@ public class Observador {
         this.organizacion = organizacion;
     }
 
-    // Getters y Setters
+
     public String getIdentificador() {
         return identificador;
     }

@@ -75,7 +75,7 @@ public class VentanaEspecies extends JFrame {
         panelBotones.add(btnLimpiar);
         panelBotones.add(btnCerrar);
 
-        // Panel de listado
+
         JPanel panelListado = new JPanel(new BorderLayout());
         panelListado.setBorder(BorderFactory.createTitledBorder("Especies Registradas"));
 

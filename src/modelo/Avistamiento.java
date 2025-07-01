@@ -22,7 +22,7 @@ public class Avistamiento {
         this.observadorReporte = observadorReporte;
     }
 
-    // Getters y Setters
+
     public String getIdentificador() {
         return identificador;
     }

@@ -48,7 +48,7 @@ public class InterfazPrincipal extends JFrame {
         gbc.gridy = 3;
         panelBotones.add(btnSalir, gbc);
 
-        // Event listeners
+
         btnEspecies.addActionListener(e -> abrirVentanaEspecies());
         btnObservadores.addActionListener(e -> abrirVentanaObservadores());
         btnAvistamientos.addActionListener(e -> abrirVentanaAvistamientos());

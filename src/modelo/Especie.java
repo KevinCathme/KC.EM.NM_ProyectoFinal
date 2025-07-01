@@ -16,7 +16,7 @@ public class Especie {
         this.habitatPrincipal = habitatPrincipal;
     }
 
-    // Getters y Setters
+
     public String getCodigo() {
         return codigo;
     }

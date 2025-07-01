@@ -17,7 +17,7 @@ public class SistemaEspecies {
     }
 
     private void inicializarDatosPrueba() {
-        // Especies de ejemplo
+        // Especies ejemplo
         registrarEspecie(new Especie("ESP001", "Panthera onca", "Jaguar", "Vulnerable", "Selva tropical"));
         registrarEspecie(new Especie("ESP002", "Chelonia mydas", "Tortuga verde", "En peligro", "Océanos tropicales"));
         registrarEspecie(new Especie("ESP003", "Tremarctos ornatus", "Oso de anteojos", "Vulnerable", "Bosques andinos"));
