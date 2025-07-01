@@ -1,4 +1,3 @@
-// archivo: src/vista/VentanaAvistamientos.java
 package vista;
 
 import modelo.*;

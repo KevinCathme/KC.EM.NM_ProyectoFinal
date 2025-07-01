@@ -1,4 +1,3 @@
-// archivo: src/controlador/ControladorPrincipal.java
 package controlador;
 
 import modelo.*;

@@ -1,4 +1,3 @@
-// archivo: src/vista/VentanaObservadores.java
 package vista;
 
 import modelo.*;
