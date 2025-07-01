@@ -1,4 +1,3 @@
-// archivo: src/modelo/SistemaEspecies.java
 package modelo;
 
 import java.util.ArrayList;

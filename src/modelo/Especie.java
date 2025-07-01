@@ -1,4 +1,3 @@
-// archivo: src/modelo/Especie.java
 package modelo;
 
 public class Especie {
