@@ -106,7 +106,7 @@ public class SistemaEspecies {
             return "No hay avistamientos registrados.";
         }
 
-        // Contar avistamientos por especie
+        // Contar avistamientos
         Map<String, Integer> avistamientosPorEspecie = new HashMap<>();
         int totalIndividuos = 0;
 
@@ -137,7 +137,7 @@ public class SistemaEspecies {
         estadisticas.append("Especie más avistada: ").append(especieMasAvistada)
                 .append(" (").append(maxAvistamientos).append(" avistamientos)\n");
 
-        // Contar especies por categoría
+        // Contar especie por categoría
         Map<String, Integer> especiesPorCategoria = new HashMap<>();
         for (Especie especie : especies) {
             String categoria = especie.getCategoriaConservacion();

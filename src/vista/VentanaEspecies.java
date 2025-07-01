@@ -1,4 +1,3 @@
-// archivo: src/vista/VentanaEspecies.java
 package vista;
 
 import modelo.*;

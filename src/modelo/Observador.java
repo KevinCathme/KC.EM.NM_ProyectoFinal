@@ -1,4 +1,3 @@
-// archivo: src/modelo/Observador.java
 package modelo;
 
 public class Observador {
