@@ -1,4 +1,3 @@
-// archivo: src/main/AplicacionPrincipal.java
 package main;
 
 import vista.InterfazPrincipal;
