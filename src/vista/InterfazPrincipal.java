@@ -1,4 +1,3 @@
-// archivo: src/vista/InterfazPrincipal.java
 package vista;
 
 import javax.swing.*;
